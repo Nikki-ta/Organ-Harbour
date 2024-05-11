@@ -93,15 +93,24 @@ Now, you can run the server by:
 
 Open a browser and go to http://localhost:8080/
 
-# Solution Approach
-1. Building a user-friendly donation platform
-2. Donor takes pledge on our platform
-3. Creating a smart contract for donors, patients and hospitals
-4. Hospital then verifies the donor who took pledge, registers and views donor and patients available
-5. Performing transplant match between donor and patient
-6. Storing all the details on the Ethereum blockchain
+# Methodology
+<a target="blank"><center><img src="https://github.com/Nikki-ta/Organ-Harbour/blob/main/organ-donation-platform/images/flowchart.png"></center></a>
 
 # Results
 Thus, our project utilizes blockchain technology to optimize organ donation processes, reducing waiting times for patients. Through Ethereum blockchain on Truffle Ganache, the platform ensures transparency, security and ease of access for both donors and patients. Verification by hospitals enhances credibility, while the immutable ledger mitigates illegal activities like black marketing and trafficking of organs. Overall, the proposed solution offers hope by prioritizing data privacy, transparency and fairness in organ donation and transplantation, ultimately saving lives and improving healthcare outcomes.
+<a target="blank"><center><img src="https://github.com/Nikki-ta/Organ-Harbour/blob/main/organ-donation-platform/images/homepage.png"></center></a>
+<a target="blank"><center><img src="https://github.com/Nikki-ta/Organ-Harbour/blob/main/organ-donation-platform/images/donor.png"></center></a>
+<a target="blank"><center><img src="https://github.com/Nikki-ta/Organ-Harbour/blob/main/organ-donation-platform/images/dashboard.png"></center></a>
+<a target="blank"><center><img src="https://github.com/Nikki-ta/Organ-Harbour/blob/main/organ-donation-platform/images/verification.png"></center></a>
+<a target="blank"><center><img src="https://github.com/Nikki-ta/Organ-Harbour/blob/main/organ-donation-platform/images/transplant.png"></center></a>
+
+## Team Members
+* #### NIKITA BANSAL - 21103069(B3)
+* #### SAMYAK JAIN  - 21103075(B3)
+* #### RIBHA NISHAL  - 21103098(B4)
+
+## LICENSE
+This project is licensed under the MIT License - see the <a href="https://github.com/Nikki-ta/Sweet-Sage/blob/main/LICENSE.md" target="blank">LICENSE.MD</a> files for details.
+
 
 
