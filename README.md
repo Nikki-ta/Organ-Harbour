@@ -110,7 +110,7 @@ Thus, our project utilizes blockchain technology to optimize organ donation proc
 * #### RIBHA NISHAL  - 21103098(B4)
 
 ## LICENSE
-This project is licensed under the MIT License - see the <a href="https://github.com/Nikki-ta/Sweet-Sage/blob/main/LICENSE.md" target="blank">LICENSE.MD</a> files for details.
+This project is licensed under the MIT License - see the <a href="https://github.com/Nikki-ta/Organ-Harbour/blob/main/LICENSE.md" target="blank">LICENSE.MD</a> files for details.
 
 
 
