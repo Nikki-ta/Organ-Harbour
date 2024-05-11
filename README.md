@@ -4,7 +4,6 @@ Organ donation and transplantation using blockchain
 # Introduction
 Organ donation and transplantation is one of the great advances in modern medicine. It offers a second chance at life to people of all ages who have life-threatening diseases or injuries to their vital organs. But due to scarcity, unfortunately, not everyone who needs an organ transplant gets one in time. The lack of transparency in the existing system among donors, recipients, hospitals and other higher authorities, often leads to the illegal sale and purchase of organs. The more needy patient might not get the organ while someone who is behind in the waiting list might get an organ before, if he/she is able to pay the higher amount. As per the current system the entire data is stored at a single point, thus shifting to a distributed system will introduce more security.
 In response to this pressing challenge, we introduce Organ Harbour, an innovative dApp platform connecting organ donor and acceptor via public ethereum blockchain that gives a decentralized, transparent and secure system for organ donation and transplantation. Central to our approach is the utilization of smart contracts, meticulously designed to govern the conditions and actions pertinent to hospitals, patients, and donors. These smart contracts enable hospitals to efficiently match donors with compatible recipients, streamlining the transplantation process and ensuring timely access to life-saving treatments. The secure deployment of smart contracts onto the Ethereum blockchain, facilitated by migrations.sol, underscores our commitment to transparency and reliability. 
-Moreover, our platform provides a user-friendly interface for donors, empowering them to make informed decisions about organ donation through access to educational resources and streamlined pledge processes. Hospitals manage donor and patient databases and perform transplant matching on the basis of blood group and organs required. 
 Through this project, we explore how blockchain technology enables us to streamline the organ donation process, authenticate donors and patients, facilitate efficient matching, and ensure transparency throughout the transplantation journey. From donor pledges and registrations to the deployment of smart contracts on the Ethereum blockchain, our project showcases the transformative potential of blockchain in revolutionizing healthcare practices for the betterment of society. 
 
 # Problem Statement
@@ -93,4 +92,16 @@ Now, you can run the server by:
 `npm run dev`
 
 Open a browser and go to http://localhost:8080/
+
+# Solution Approach
+1. Building a user-friendly donation platform
+2. Donor takes pledge on our platform
+3. Creating a smart contract for donors, patients and hospitals
+4. Hospital then verifies the donor who took pledge, registers and views donor and patients available
+5. Performing transplant match between donor and patient
+6. Storing all the details on the Ethereum blockchain
+
+# Results
+Thus, our project utilizes blockchain technology to optimize organ donation processes, reducing waiting times for patients. Through Ethereum blockchain on Truffle Ganache, the platform ensures transparency, security and ease of access for both donors and patients. Verification by hospitals enhances credibility, while the immutable ledger mitigates illegal activities like black marketing and trafficking of organs. Overall, the proposed solution offers hope by prioritizing data privacy, transparency and fairness in organ donation and transplantation, ultimately saving lives and improving healthcare outcomes.
+
 
